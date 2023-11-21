@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\VVSA_dotNET_VSCODE.props" />
+</Project>

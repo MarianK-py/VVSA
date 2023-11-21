@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\VVSA_dotNET_VSCODE.props" />
+</Project>

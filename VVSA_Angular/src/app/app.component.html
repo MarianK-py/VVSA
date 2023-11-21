@@ -1,0 +1,65 @@
+<mat-toolbar color="primary">
+  <button
+    mat-icon-button
+    class="example-icon"
+    aria-label="Example icon-button with menu icon"
+    [matMenuTriggerFor]="menu"
+  >
+    <mat-icon>menu</mat-icon>
+  </button>
+
+  <mat-menu #menu="matMenu">
+    <a mat-menu-item [routerLink]="['/basic-accounts']">
+      <mat-icon
+        aria-hidden="false"
+        aria-label="Transactions icon"
+        fontIcon="dialpad"
+      ></mat-icon>
+      Transakcie
+    </a>
+    <a mat-menu-item [routerLink]="['']">
+      <mat-icon
+        aria-hidden="false"
+        aria-label="Transactions icon"
+        fontIcon="dialpad"
+      ></mat-icon>
+      Debetné karty
+    </a>
+    <a mat-menu-item [routerLink]="['']">
+      <mat-icon
+        aria-hidden="false"
+        aria-label="Transactions icon"
+        fontIcon="dialpad"
+      ></mat-icon>
+      Kreditné karty
+    </a>
+    <a mat-menu-item [routerLink]="['']">
+      <mat-icon
+        aria-hidden="false"
+        aria-label="Transactions icon"
+        fontIcon="dialpad"
+      ></mat-icon>
+      Sporenie
+    </a>
+    <a mat-menu-item [routerLink]="['']">
+      <mat-icon
+        aria-hidden="false"
+        aria-label="Transactions icon"
+        fontIcon="dialpad"
+      ></mat-icon>
+      Investovanie
+    </a>
+    <a mat-menu-item [routerLink]="['']">
+      <mat-icon
+        aria-hidden="false"
+        aria-label="Transactions icon"
+        fontIcon="dialpad"
+      ></mat-icon>
+      Úvery
+    </a>
+  </mat-menu>
+
+  <span>Internet banking</span>
+</mat-toolbar>
+
+<router-outlet></router-outlet>

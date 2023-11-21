@@ -1,0 +1,25 @@
+
+<!--
+<div *ngIf="transactionData">
+  {{ transactionData | json }}
+  {{ transactionData.transactionType | transactionType }}
+</div> -->
+<form [formGroup]="detailForm">
+<mat-form-field class="example-full-width">
+  <mat-label>Account number</mat-label>
+  <input matInput formControlName="accountNum">
+</mat-form-field>
+<br>
+<mat-form-field class="example-full-width">
+  <mat-label>Amount</mat-label>
+  <input matInput formControlName="amountVal">
+</mat-form-field>
+<br>
+<mat-form-field class="example-full-width">
+  <mat-label>Issue date</mat-label>
+  <input matInput formControlName="datePicker" [matDatepicker]="picker">
+  <mat-hint>MM/DD/YYYY</mat-hint>
+  <mat-datepicker-toggle matIconSuffix [for]="picker"></mat-datepicker-toggle>
+  <mat-datepicker #picker></mat-datepicker>
+</mat-form-field>
+</form>

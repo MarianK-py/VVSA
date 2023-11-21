@@ -1,0 +1,86 @@
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\bin\Debug\net7.0\appsettings.json
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\bin\Debug\net7.0\VVSA_dotNET_VSCODE.exe
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\bin\Debug\net7.0\VVSA_dotNET_VSCODE.deps.json
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\bin\Debug\net7.0\VVSA_dotNET_VSCODE.runtimeconfig.json
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\bin\Debug\net7.0\VVSA_dotNET_VSCODE.dll
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\bin\Debug\net7.0\VVSA_dotNET_VSCODE.pdb
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\obj\Debug\net7.0\VVSA_dotNET_VSCODE.csproj.AssemblyReference.cache
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\obj\Debug\net7.0\VVSA_dotNET_VSCODE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\obj\Debug\net7.0\VVSA_dotNET_VSCODE.AssemblyInfoInputs.cache
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\obj\Debug\net7.0\VVSA_dotNET_VSCODE.AssemblyInfo.cs
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\obj\Debug\net7.0\VVSA_dotNET_VSCODE.csproj.CoreCompileInputs.cache
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\obj\Debug\net7.0\VVSA_dotNET_VSCODE.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\obj\Debug\net7.0\VVSA_dotNET_VSCODE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\obj\Debug\net7.0\staticwebassets\msbuild.VVSA_dotNET_VSCODE.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\obj\Debug\net7.0\staticwebassets\msbuild.build.VVSA_dotNET_VSCODE.props
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.VVSA_dotNET_VSCODE.props
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.VVSA_dotNET_VSCODE.props
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\obj\Debug\net7.0\scopedcss\bundle\VVSA_dotNET_VSCODE.styles.css
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\obj\Debug\net7.0\VVSA_dotNET_VSCODE.csproj.CopyComplete
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\obj\Debug\net7.0\VVSA_dotNET_VSCODE.dll
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\obj\Debug\net7.0\refint\VVSA_dotNET_VSCODE.dll
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\obj\Debug\net7.0\VVSA_dotNET_VSCODE.pdb
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\obj\Debug\net7.0\VVSA_dotNET_VSCODE.genruntimeconfig.cache
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\obj\Debug\net7.0\ref\VVSA_dotNET_VSCODE.dll
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\bin\Debug\net7.0\Humanizer.dll
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\majko\Desktop\anguler test project\VVSA_dotNET_VSCODE\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\bin\Debug\net7.0\appsettings.json
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\bin\Debug\net7.0\VVSA_dotNET_VSCODE.exe
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\bin\Debug\net7.0\VVSA_dotNET_VSCODE.deps.json
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\bin\Debug\net7.0\VVSA_dotNET_VSCODE.runtimeconfig.json
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\bin\Debug\net7.0\VVSA_dotNET_VSCODE.dll
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\bin\Debug\net7.0\VVSA_dotNET_VSCODE.pdb
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\bin\Debug\net7.0\Humanizer.dll
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\obj\Debug\net7.0\VVSA_dotNET_VSCODE.csproj.AssemblyReference.cache
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\obj\Debug\net7.0\VVSA_dotNET_VSCODE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\obj\Debug\net7.0\VVSA_dotNET_VSCODE.AssemblyInfoInputs.cache
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\obj\Debug\net7.0\VVSA_dotNET_VSCODE.AssemblyInfo.cs
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\obj\Debug\net7.0\VVSA_dotNET_VSCODE.csproj.CoreCompileInputs.cache
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\obj\Debug\net7.0\VVSA_dotNET_VSCODE.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\obj\Debug\net7.0\VVSA_dotNET_VSCODE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\obj\Debug\net7.0\staticwebassets\msbuild.VVSA_dotNET_VSCODE.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\obj\Debug\net7.0\staticwebassets\msbuild.build.VVSA_dotNET_VSCODE.props
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.VVSA_dotNET_VSCODE.props
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.VVSA_dotNET_VSCODE.props
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\obj\Debug\net7.0\scopedcss\bundle\VVSA_dotNET_VSCODE.styles.css
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\obj\Debug\net7.0\VVSA_dotNET_VSCODE.csproj.CopyComplete
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\obj\Debug\net7.0\VVSA_dotNET_VSCODE.dll
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\obj\Debug\net7.0\refint\VVSA_dotNET_VSCODE.dll
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\obj\Debug\net7.0\VVSA_dotNET_VSCODE.pdb
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\obj\Debug\net7.0\VVSA_dotNET_VSCODE.genruntimeconfig.cache
+C:\Users\majko\Desktop\VVSA\VVSA_dotNET_VSCODE\obj\Debug\net7.0\ref\VVSA_dotNET_VSCODE.dll
