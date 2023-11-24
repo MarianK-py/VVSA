@@ -11,16 +11,6 @@ public class TransactionRepository : ITransactionRepository
     private readonly Whiyes5oContext context;
     public TransactionRepository(Whiyes5oContext context){
         this.context = context;
-        /*this.transactions = new List<Transaction>{
-            new Transaction {
-                TransactionId = 1,
-                FullName = "HELP"
-            },
-            new Transaction {
-                TransactionId = 2,
-                FullName = "ME",
-            }
-        };*/
     }
 
     public List<Transaction> GetAllTransactions()

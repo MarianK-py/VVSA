@@ -27,10 +27,12 @@ export class BasicAccountsDetailComponent {
       this.transactionsService
         .getTransactionDetail$(transactionId)
         .subscribe((response) => {
-          this.transactionData = response.data;
-          this.detailForm.setValue({accountNum: response.data.accountNumber,
-            amountVal: response.data.amount,
-            datePicker: response.data.issueDate})
+          this.transactionData = response;
+          console.log(response);
+          this.detailForm.setValue({accountNum: response.accountNumber,
+            amountVal: response.amount,
+            datePicker: response.issueDate})
+
         });
     });
     

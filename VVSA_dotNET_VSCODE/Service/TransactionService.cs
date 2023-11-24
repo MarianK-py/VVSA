@@ -13,14 +13,6 @@ public class TransactionService : ITransactionService
         this.transactionRepository = transactionRepository;
     }
 
-    /*
-    public List<Transaction> GetAllTransactions()
-    {
-        var transactions = transactionRepository.GetAllTransactions();
-
-        return transactions;
-    }
-    */
     public List<TransactionViewModel> GetAllTransactions()
     {
         
@@ -29,12 +21,13 @@ public class TransactionService : ITransactionService
         
         foreach (var transaction in transactions){
             var transactionViewModel = new TransactionViewModel {
+                TransactionId = transaction.Id,
                 AccountNumber = transaction.AccountNumber,
                 Amount = transaction.Amount,
                 BankCode = transaction.BankCode,
                 FullName = transaction.User.Name,
                 IssueDate = transaction.IssueDate,
-                TransactionType = transaction.TransactionType.Name
+                TransactionType = transaction.TransactionType.Id
             };
 
             transactionsViewModel.Add(transactionViewModel);
@@ -42,26 +35,18 @@ public class TransactionService : ITransactionService
         return transactionsViewModel;
     }
 
-    /*
-    public Transaction GetTransaction(int id)
-    {
-        var Transaction = transactionRepository.GetTransaction(id);
-
-        return Transaction;
-    }
-    */
-
      public TransactionViewModel GetTransaction(int id)
     {
         var transaction = transactionRepository.GetTransaction(id);
         
         var transactionViewModel = new TransactionViewModel {
+            TransactionId = transaction.Id,
             AccountNumber = transaction.AccountNumber,
             Amount = transaction.Amount,
             BankCode = transaction.BankCode,
             FullName = transaction.User.Name,
             IssueDate = transaction.IssueDate,
-            TransactionType = transaction.TransactionType.Name
+            TransactionType = transaction.TransactionType.Id
         };
 
         return transactionViewModel;

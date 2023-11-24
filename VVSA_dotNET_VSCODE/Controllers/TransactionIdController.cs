@@ -6,20 +6,20 @@ namespace VVSA_dotNET_VSCODE.Controllers;
 
 [ApiController]
 [Route("[controller]")]
-public class TransactionController : ControllerBase
+public class TransactionIdController : ControllerBase
 {
 
     private readonly ITransactionService transactionService;
 
-    public TransactionController(ITransactionService data)
+    public TransactionIdController(ITransactionService data)
     {
         transactionService = data;
     }
 
-    [HttpGet(Name = "GetTransaction")]
-    public List<TransactionViewModel> Get()
+    [HttpGet(Name = "GetTransactionById")]
+    public TransactionViewModel GetById(int id) 
     {
-        return transactionService.GetAllTransactions();
+        return transactionService.GetTransaction(id);
     }
 
 }

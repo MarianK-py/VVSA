@@ -6,9 +6,7 @@ namespace VVSA_dotNET_VSCODE.Serivce;
 
 public interface ITransactionService
 {
-    //List<Transaction> GetAllTransactions();
     List<TransactionViewModel> GetAllTransactions();
 
-    //Transaction GetTransaction(int id);
     TransactionViewModel GetTransaction(int id);
 }

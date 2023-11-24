@@ -18,19 +18,15 @@ export interface ITransaction {
 export class TransactionsServiceService {
   constructor(private httpClient: HttpClient) {}
 
-  /*
-  getTransactions$(): Observable<{ data: ITransaction[] }> {
-    return this.httpClient.get<{ data: ITransaction[] }>('/api/transactions');
-  }
-  */
+  
   getTransactions$(): Observable<ITransaction[]> {
     console.log(this.httpClient.get<ITransaction[]>('/Transaction'));
     return this.httpClient.get<ITransaction[]>('/Transaction');
   }
 
-  getTransactionDetail$(id: string): Observable<{ data: ITransaction }> {
-    return this.httpClient.get<{ data: ITransaction }>(
-      `/api/transactions/${id}`
+  getTransactionDetail$(id: string): Observable<ITransaction> {
+    return this.httpClient.get<ITransaction>(
+      `/TransactionId?id=${id}`
     );
   }
 }

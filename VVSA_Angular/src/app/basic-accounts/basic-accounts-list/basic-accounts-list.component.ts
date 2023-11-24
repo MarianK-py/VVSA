@@ -16,6 +16,7 @@ export class BasicAccountsListComponent {
   constructor(private transactionsService: TransactionsServiceService) {
     this.transactionsService.getTransactions$().subscribe((response) => {
       this.transactionList = response;
+      console.log(this.transactionList)
     });
   }
 }
